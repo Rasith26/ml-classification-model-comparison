@@ -14,8 +14,7 @@ The Online Shoppers Purchasing Intention dataset is obtained from the UCI Machin
 - Number of input features: 17
 The dataset contains numerical and categorical information related to online shopping sessions.
 
-3. GitHub Repository Link
-Link: https://github.com/Rasith26/ml-classification-model-comparison
+3. GitHub Repository Link: https://github.com/Rasith26/ml-classification-model-comparison
 
 4. Models Used
 The following five classification algorithms are implemented:
@@ -48,5 +47,4 @@ MODEL COMPARISON
 Gaussian Naive Bayes  0.673560 0.793161   0.293659 0.787958  0.427861 0.323431
                  SVM  0.856042 0.885570   0.525813 0.719895  0.607735 0.531852
 
-7. Streamlit Community Cloud Link
-Link: https://ml-classification-model-comparison-qcnesdauysfirclrtymm4k.streamlit.app/
+7. Streamlit Community Cloud Link: https://ml-classification-model-comparison-qcnesdauysfirclrtymm4k.streamlit.app/
